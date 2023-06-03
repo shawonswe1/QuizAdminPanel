@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizAdminPanel</string>
+    <string name="option_a">Write Option A</string>
+    <string name="question">Enter Question</string>
+    <string name="option_b">Write Option B</string>
+    <string name="option_c">Write Option C</string>
+    <string name="option_d">Write Option D</string>
+    <string name="answer">Write Answer</string>
+    <string name="submit">Submit</string>
+</resources>
